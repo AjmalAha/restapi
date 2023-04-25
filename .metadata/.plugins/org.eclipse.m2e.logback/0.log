@@ -1,0 +1,59 @@
+2023-04-24 11:24:15,107 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-24 11:26:08,890 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Day5DatabaseConnection:0.0.1-SNAPSHOT @ D:\restapi\Day5DatabaseConnection\pom.xml.
+2023-04-24 11:26:17,623 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.pom
+2023-04-24 11:26:18,729 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.pom
+2023-04-24 11:26:20,909 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.jar
+2023-04-24 11:26:30,516 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6.jar
+2023-04-24 11:26:31,358 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day5DatabaseConnection/src/main/java
+2023-04-24 11:26:31,359 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day5DatabaseConnection/src/main/resources
+2023-04-24 11:26:31,368 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day5DatabaseConnection/src/main/resources
+2023-04-24 11:26:31,378 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day5DatabaseConnection/src/test/java
+2023-04-24 11:26:33,111 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2023-04-24 11:26:33,119 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-24 11:26:33,376 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Day5DatabaseConnection:0.0.1-SNAPSHOT @ D:\restapi\Day5DatabaseConnection\pom.xml.
+2023-04-24 11:26:33,785 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6-sources.jar
+2023-04-24 11:26:33,912 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day5DatabaseConnection/src/main/java
+2023-04-24 11:26:33,913 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day5DatabaseConnection/src/main/resources
+2023-04-24 11:26:33,914 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Day5DatabaseConnection/src/main/resources
+2023-04-24 11:26:33,915 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Day5DatabaseConnection/src/test/java
+2023-04-24 11:26:34,360 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-24 11:26:35,530 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.6/spring-boot-devtools-3.0.6-sources.jar
+2023-04-24 11:26:35,533 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.0.6
+2023-04-24 11:43:10,701 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-24 11:44:12,583 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 11:44:12,605 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 11:44:12,611 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\restapi\Day5DatabaseConnection\src\test\resources
+2023-04-24 12:32:54,433 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.12; built: 2022-09-14T01:54:40.076Z; git: 408d0139887e27a57b54ed52e2d92a36731a7e88; jvm 17.0.6+10
+2023-04-24 12:32:54,452 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-04-24 12:32:54,475 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5a63b62d{/help,null,AVAILABLE}
+2023-04-24 12:32:54,505 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@69eb48dc{HTTP/1.1, (http/1.1)}{127.0.0.1:54165}
+2023-04-24 12:32:54,514 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@4cdb4005{STARTING}[10.0.12,sto=0] @2994303ms
+2023-04-24 12:40:16,901 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:40:16,907 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:40:16,910 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\restapi\Day5DatabaseConnection\src\test\resources
+2023-04-24 12:40:25,976 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:40:25,997 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:40:26,000 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\restapi\Day5DatabaseConnection\src\test\resources
+2023-04-24 12:41:22,395 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 12:41:22,399 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 12:41:22,402 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\restapi\Day5DatabaseConnection\src\test\resources
+2023-04-24 14:27:43,807 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Review1:0.0.1-SNAPSHOT @ D:\restapi\Review1\pom.xml.
+2023-04-24 14:27:44,692 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Review1/src/main/java
+2023-04-24 14:27:44,693 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Review1/src/main/resources
+2023-04-24 14:27:44,699 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Review1/src/main/resources
+2023-04-24 14:27:44,703 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Review1/src/test/java
+2023-04-24 14:27:45,059 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-04-24 14:27:45,063 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-24 14:27:45,281 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Review1:0.0.1-SNAPSHOT @ D:\restapi\Review1\pom.xml.
+2023-04-24 14:27:45,666 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Review1/src/main/java
+2023-04-24 14:27:45,666 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Review1/src/main/resources
+2023-04-24 14:27:45,666 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Review1/src/main/resources
+2023-04-24 14:27:45,667 [Worker-22: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Review1/src/test/java
+2023-04-24 14:27:45,952 [Worker-22: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-24 15:12:55,407 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@4cdb4005{STOPPING}[10.0.12,sto=0]
+2023-04-24 15:12:55,416 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@69eb48dc{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-04-24 15:12:55,427 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5a63b62d{/help,null,STOPPED}
+2023-04-24 15:13:19,298 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-24 15:15:19,340 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-04-24 15:15:19,410 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-04-24 15:15:19,428 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\restapi\Review1\src\test\resources
